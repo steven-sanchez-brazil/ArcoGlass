@@ -2,7 +2,7 @@ name: Deploy Astro site to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [codex/create-landing-page-for-glass-company-blrjk3]
   workflow_dispatch:
 
 permissions:
